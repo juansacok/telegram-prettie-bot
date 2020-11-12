@@ -33,8 +33,4 @@ Si quieres contribuir a este proyecto, te invito a que me hagas un Pull Request 
 The MIT License (MIT)
 
 ---
-<footer align="center">
-
- _Hecho con_ 🖤 _por_ [JuansacOk](https://twitter.com/JuansacOk)
-
- </footer>
+<h4 align="center">Hecho con 🖤 por <a href="https://twitter.com/JuansacOk">JuansacOk </a></h4>
